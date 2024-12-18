@@ -1,0 +1,10 @@
+# Arquivos de configuração sensíveis
+.env
+
+# Arquivos temporários
+temp_image.jpg
+__pycache__/
+*.pyc
+
+# Configuração do Streamlit
+.streamlit/
